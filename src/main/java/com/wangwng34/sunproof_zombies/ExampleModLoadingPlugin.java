@@ -1,4 +1,4 @@
-package com.wangwng34.zombiesnoburn;
+package com.wangwng34.sunproof_zombies;
 
 import net.minecraftforge.common.ForgeVersion;
 import net.minecraftforge.fml.relauncher.IFMLLoadingPlugin;

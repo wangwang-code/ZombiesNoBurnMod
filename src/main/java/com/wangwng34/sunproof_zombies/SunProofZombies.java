@@ -1,4 +1,4 @@
-package com.wangwng34.zombiesnoburn;
+package com.wangwng34.sunproof_zombies;
 
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventHandler;
@@ -6,8 +6,8 @@ import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import org.apache.logging.log4j.Logger;
 
-@Mod(modid = ZombiesNoBurn.MODID, name = ZombiesNoBurn.NAME, version = ZombiesNoBurn.VERSION)
-public class ZombiesNoBurn
+@Mod(modid = SunProofZombies.MODID, name = SunProofZombies.NAME, version = SunProofZombies.VERSION)
+public class SunProofZombies
 {
     public static final String MODID = "zombiesnoburn";
     public static final String NAME = "Zombies Don't Burn";

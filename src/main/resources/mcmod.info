@@ -1,7 +1,7 @@
 [
 {
-  "modid": "zombiesnoburn",
-  "name": "Zombies Don't Burn",
+  "modid": "sunproof_zombies",
+  "name": "Sun-Proof Zombies",
   "description": "protectMobsFromSund.",
   "version": "${version}",
   "mcversion": "${mcversion}",
