@@ -1,7 +1,7 @@
 {
     "required": true,
-    "package": "com.example.examplemod.mixins",
-    "refmap": "mixins.examplemod.refmap.json",
+    "package": "com.wangwng34.zombiesnoburn.mixins",
+    "refmap": "mixins.zombiesnoburn.refmap.json",
     "minVersion": "0.7.3",
     "compatibilityLevel": "JAVA_8",
     "mixins": [

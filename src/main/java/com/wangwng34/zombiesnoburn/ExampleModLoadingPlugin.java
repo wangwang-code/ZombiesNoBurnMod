@@ -1,4 +1,4 @@
-package com.example.examplemod;
+package com.wangwng34.zombiesnoburn;
 
 import net.minecraftforge.common.ForgeVersion;
 import net.minecraftforge.fml.relauncher.IFMLLoadingPlugin;
@@ -14,7 +14,7 @@ public class ExampleModLoadingPlugin implements IFMLLoadingPlugin
     public ExampleModLoadingPlugin()
     {
         MixinBootstrap.init();
-        Mixins.addConfiguration("mixins.examplemod.json");
+        Mixins.addConfiguration("mixins.zombiesnoburn.json");
     }
 
     /**
